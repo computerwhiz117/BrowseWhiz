@@ -7,3 +7,6 @@ c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\Br
 c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.csproj.GenerateResource.Cache
 c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.exe
 c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.pdb
+C:\Users\Carlos\Documents\GitHub\BrowseWhiz\bin\Debug\BrowseWhiz.exe.config
+C:\Users\Carlos\Documents\GitHub\BrowseWhiz\obj\Debug\BrowseWhiz.exe
+C:\Users\Carlos\Documents\GitHub\BrowseWhiz\obj\Debug\BrowseWhiz.pdb
