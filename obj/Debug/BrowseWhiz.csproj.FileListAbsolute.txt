@@ -1,0 +1,9 @@
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\bin\Debug\BrowseWhiz.exe.config
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\bin\Debug\BrowseWhiz.exe
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\bin\Debug\BrowseWhiz.pdb
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.csprojResolveAssemblyReference.cache
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.Form1.resources
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.Properties.Resources.resources
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.csproj.GenerateResource.Cache
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.exe
+c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\BrowseWhiz.pdb
