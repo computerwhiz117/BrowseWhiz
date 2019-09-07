@@ -10,3 +10,13 @@ c:\users\carli_000\documents\visual studio 2013\Projects\BrowseWhiz\obj\Debug\Br
 C:\Users\Carlos\Documents\GitHub\BrowseWhiz\bin\Debug\BrowseWhiz.exe.config
 C:\Users\Carlos\Documents\GitHub\BrowseWhiz\obj\Debug\BrowseWhiz.exe
 C:\Users\Carlos\Documents\GitHub\BrowseWhiz\obj\Debug\BrowseWhiz.pdb
+C:\Users\Carlos\source\repos\BrowseWhiz\bin\Debug\BrowseWhiz.exe.config
+C:\Users\Carlos\source\repos\BrowseWhiz\bin\Debug\BrowseWhiz.exe
+C:\Users\Carlos\source\repos\BrowseWhiz\bin\Debug\BrowseWhiz.pdb
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.Form1.resources
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.Properties.Resources.resources
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.exe
+C:\Users\Carlos\source\repos\BrowseWhiz\obj\Debug\BrowseWhiz.pdb
